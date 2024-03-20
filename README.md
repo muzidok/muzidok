@@ -1,7 +1,8 @@
 <div align="center">
   <div>
     
-# Muzidok
+# Muzidok 
+<a href="https://wakatime.com/@018cb549-e28f-42fb-8776-0ab60b8e4a37"><img src="https://wakatime.com/badge/user/018cb549-e28f-42fb-8776-0ab60b8e4a37.svg" alt="Total time coded since Dec 29 2023" /></a>
 
       "Let's always look at things from various perspectives and think broadly."
     
